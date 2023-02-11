@@ -1,4 +1,7 @@
 # woowacourse-study
-우테코에서 스터디한거
+공부기록 in 우아한 테크코스
 
-[이펙티브 자바 스터디](https://github.com/eunkeeee/effective-java-study)
+|스터디| |
+|:---:|:---:|
+|이펙티브 자바 스터디|[링크](https://github.com/hectick/2023-effective-java)|
+
