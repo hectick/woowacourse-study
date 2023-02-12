@@ -3,5 +3,5 @@
 
 |스터디| |
 |:---:|:---:|
-|이펙티브 자바 스터디|[링크](https://github.com/hectick/2023-effective-java)|
+|이펙티브 자바 스터디|[링크](https://github.com/eunkeeee/2023-effective-java)|
 
