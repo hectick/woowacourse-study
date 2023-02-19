@@ -12,9 +12,9 @@
 |자동차 경주 게임 2단계|`2023-02-10` ~ `2023-02-13`|[저장소](https://github.com/hectick/java-racingcar/tree/step2) |[PR](https://github.com/woowacourse/java-racingcar/pull/552)| | |
 |사다리 생성 1단계|`2023-02-14` ~ `2023-02-16`|[저장소](https://github.com/hectick/java-ladder/tree/step1) |[PR](https://github.com/woowacourse/java-ladder/pull/122)|[이오](https://github.com/LJW25)| |
 
-|study| |
+| Study | Repository |
 |:---:|:---:|
-|이펙티브 자바 스터디|[링크](https://github.com/eunkeeee/2023-effective-java)|
+|이펙티브 자바|[저장소](https://github.com/eunkeeee/2023-effective-java)|
 
 <br>
 
