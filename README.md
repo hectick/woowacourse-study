@@ -6,9 +6,11 @@
 
 ## 🍏 Level 1
 
-| Project | Period | Repository | PR | 회고 & 정리 | 
-| --- | --- | --- | --- | --- |
-|자동차 경주 게임 1단계|`2023-02-07` ~ `2023-02-11`| | |
+| Project | Period | Repository | PR | Pair | 회고 & 정리 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|자동차 경주 게임 1단계|`2023-02-07` ~ `2023-02-09`|[저장소](https://github.com/hectick/java-racingcar/tree/hectick)|[PR](https://github.com/woowacourse/java-racingcar/pull/493)|깃짱| |
+|자동차 경주 게임 2단계|`2023-02-10` ~ `2023-02-13`|[저장소](https://github.com/hectick/java-racingcar/tree/hectick) |[PR](https://github.com/woowacourse/java-racingcar/pull/552)| | |
+|사다리 생성 1단계|`2023-02-14` ~ `2023-02-16`|[저장소](https://github.com/hectick/java-ladder/tree/hectick) |[PR](https://github.com/woowacourse/java-ladder/pull/122)|이오| |
 
 |study| |
 |:---:|:---:|
