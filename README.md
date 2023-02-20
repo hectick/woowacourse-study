@@ -22,10 +22,10 @@
 ### 미션 목록 
 | Project | Period | Repository | PR | Pair | 회고 & 정리 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1단계 - 자동차 경주 구현|`2023-02-07` ~ `2023-02-09`|[저장소](https://github.com/hectick/java-racingcar/tree/step1)|[PR](https://github.com/woowacourse/java-racingcar/pull/493)|[깃짱](https://github.com/eunkeeee)| |
-|2단계 - 자동차 경주 리팩터링|`2023-02-10` ~ `2023-02-13`|[저장소](https://github.com/hectick/java-racingcar/tree/step2) |[PR](https://github.com/woowacourse/java-racingcar/pull/552)| | |
-|1단계 - 사다리 생성|`2023-02-14` ~ `2023-02-16`|[저장소](https://github.com/hectick/java-ladder/tree/step1) |[PR](https://github.com/woowacourse/java-ladder/pull/122)|[이오](https://github.com/LJW25)| |
-
+|1단계 - 자동차 경주 구현|`2023-02-07` ~ `2023-02-11`|[저장소](https://github.com/hectick/java-racingcar/tree/step1)|[PR](https://github.com/woowacourse/java-racingcar/pull/493)|[깃짱](https://github.com/eunkeeee)| |
+|2단계 - 자동차 경주 리팩터링|`2023-02-11` ~ `2023-02-14`|[저장소](https://github.com/hectick/java-racingcar/tree/step2)|[PR](https://github.com/woowacourse/java-racingcar/pull/552)| | |
+|1단계 - 사다리 생성|`2023-02-14` ~ `2023-02-20`|[저장소](https://github.com/hectick/java-ladder/tree/step1)|[PR](https://github.com/woowacourse/java-ladder/pull/122)|[이오](https://github.com/LJW25)| |
+|2단계 - 사다리 게임 실행|`2023-02-20` ~ `2023-02-27`|[저장소](https://github.com/hectick/java-ladder/tree/step2)||| |
 
 ### 기타  
 | Study | Period | Repository |
