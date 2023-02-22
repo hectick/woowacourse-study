@@ -31,6 +31,7 @@
 | Study | Period | Repository |
 |:---:|:---:|:---:|
 |이펙티브 자바|`2023-02-17` ~ |[저장소](https://github.com/eunkeeee/2023-effective-java)|
+|꾸글쓰(꾸준히 글쓰는 모임)|`2023-02-17` ~ |[저장소](https://github.com/woowacourse-study/Gugles)|
 
 <br>
 
