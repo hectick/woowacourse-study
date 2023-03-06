@@ -26,6 +26,7 @@
 |2단계 - 자동차 경주 리팩터링|`2023-02-11` ~ `2023-02-14`|[저장소](https://github.com/hectick/java-racingcar/tree/step2)|[PR](https://github.com/woowacourse/java-racingcar/pull/552)| | |
 |1단계 - 사다리 생성|`2023-02-14` ~ `2023-02-20`|[저장소](https://github.com/hectick/java-ladder/tree/step1)|[PR](https://github.com/woowacourse/java-ladder/pull/122)|[이오](https://github.com/LJW25)| |
 |2단계 - 사다리 게임 실행|`2023-02-20` ~ `2023-02-27`|[저장소](https://github.com/hectick/java-ladder/tree/step2)|[PR](https://github.com/woowacourse/java-ladder/pull/155)||[정리글](https://finger-ineedyourhelp.tistory.com/47)|
+|1단계 - 블랙잭 게임 실행|`2023-02-28` ~ |[저장소](https://github.com/hectick/java-blackjack/tree/step1)|[PR](https://github.com/woowacourse/java-blackjack/pull/445)|[도치](https://github.com/hum02)| |
 
 ### 기타  
 | Study | Period | Repository |
