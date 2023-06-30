@@ -48,7 +48,14 @@
 |2단계 - 장바구니 기능|`2023-04-30` ~ `2023-05-12`|[저장소](https://github.com/hectick/jwp-shopping-cart/tree/step2)|[PR](https://github.com/woowacourse/jwp-shopping-cart/pull/292)| | |
 |1단계 - 지하철 정보 관리 기능|`2023-05-09` ~ `2023-05-16`|[저장소](https://github.com/hectick/jwp-subway-path/tree/step1)|[PR](https://github.com/woowacourse/jwp-subway-path/pull/30)|[히이로](https://github.com/MoonJeWoong)| |
 |2단계 - 경로 조회 기능|`2023-05-16` ~ `2023-05-22`|[저장소](https://github.com/hectick/jwp-subway-path/tree/step2)|[PR](https://github.com/woowacourse/jwp-subway-path/pull/121)| |
+|1단계 - 클라이언트 - 서버 연동 (협업)|`2023-05-23` ~ `2023-05-25`|[저장소](https://github.com/hectick/jwp-shopping-order/tree/step1)||[채채](https://github.com/chaewon121)|
+|2단계 - 주문 기능 구현 (협업)|`2023-05-26` ~ `2023-06-09`|[저장소](https://github.com/hectick/jwp-shopping-order/tree/step2)|[PR](https://github.com/woowacourse/jwp-shopping-order/pull/51)| |
 
+## 글쓰기  
+| level | PR |
+|:---:|:---:|
+|레벨1 글쓰기|[PR](https://github.com/woowacourse/woowa-writing-5/pull/63)|
+|레벨2 글쓰기|[PR](https://github.com/woowacourse/woowa-writing-5/pull/262)|
 
 ## 기타  
 | Study | Period | Repository |
