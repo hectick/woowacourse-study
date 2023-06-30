@@ -52,10 +52,10 @@
 |2단계 - 주문 기능 구현 (협업)|`2023-05-26` ~ `2023-06-09`|[저장소](https://github.com/hectick/jwp-shopping-order/tree/step2)|[PR](https://github.com/woowacourse/jwp-shopping-order/pull/51)| |
 
 ## 글쓰기  
-| level | PR |
-|:---:|:---:|
-|레벨1 글쓰기|[PR](https://github.com/woowacourse/woowa-writing-5/pull/63)|
-|레벨2 글쓰기|[PR](https://github.com/woowacourse/woowa-writing-5/pull/262)|
+| level | title | PR |
+|:---:|:---:|:---:|
+|레벨1 글쓰기|우테코 한달 생활기|[PR](https://github.com/woowacourse/woowa-writing-5/pull/63)|
+|레벨2 글쓰기|나의 디딤돌, 근육통|[PR](https://github.com/woowacourse/woowa-writing-5/pull/262)|
 
 ## 기타  
 | Study | Period | Repository |
