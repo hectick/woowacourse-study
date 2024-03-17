@@ -65,15 +65,27 @@
 ## 🍳 Level 4 (2023.08.29 ~ 2023.10.27)
 
 ### 학습 목표
+- 스프링을 만들면서 학습한다.
+- Tomcat 구현하기
+  - HTTP와 서블릿에 대한 이해도를 높인다.
+  - 스레드, 스레드풀을 적용해보고 동시성 처리를 경험한다.
+- @MVC 구현하기
+  - MVC 프레임워크를 구현하면서 내부 동작 원리를 학습한다.
+  - 점진적인 리팩토링을 경험한다.
+- JDBC 라이브러리 구현하기
+  - JDBC 라이브러리를 구현하면서 중복을 제거하는 연습을 한다.
+  - 데이터베이스에 대한 이해도를 높인다.
+- 레거시 코드 리팩터링
+  - 레거시 프로젝트를 리팩터링하는 경험을 통해 서비스를 안정적으로 운영하면서 레거시 코드를 리팩터링할 수 있는 역량을 키운다.
 
 ### 미션 목록 
 | Project | Repository | PR |
 |:---:|:---:|:---:|
 |1, 2단계 - Tomcat 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-http/pull/334)|
 |3, 4단계 - Tomcat 구현하기|[저장소](https://github.com/hectick/jwp-dashboard-http/tree/step2-again)|[PR](https://github.com/woowacourse/jwp-dashboard-http/pull/448)|
-|1단계 - MVC 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/376)|
-|2단계 - MVC 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/484)|
-|3단계 - MVC 구현하기|[저장소](https://github.com/hectick/jwp-dashboard-mvc/tree/step3)|[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/563)|
+|1단계 - @MVC 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/376)|
+|2단계 - @MVC 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/484)|
+|3단계 - @MVC 구현하기|[저장소](https://github.com/hectick/jwp-dashboard-mvc/tree/step3)|[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/563)|
 |1단계 - JDBC 라이브러리 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/299)|
 |2단계 - JDBC 라이브러리 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/391)|
 |3단계 - JDBC 라이브러리 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/514)|
