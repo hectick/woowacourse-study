@@ -60,17 +60,35 @@
 ### 팀 프로젝트
 | Project | Period | Repository | Blog |
 |:---:|:---:|:---:|:---:|
-|이돈이면|'2023-06-27' ~ '2023-11-23'|[저장소](https://github.com/woowacourse-teams/2023-edonymyeon)|[기술블로그](https://velog.io/@idonymyeon/posts)|
+|이돈이면|`2023-06-27` ~ `2023-11-23`|[저장소](https://github.com/woowacourse-teams/2023-edonymyeon)|[기술블로그](https://velog.io/@idonymyeon/posts)|
 
 ## 🍳 Level 4 (2023.08.29 ~ 2023.10.27)
 
+### 학습 목표
 
+### 미션 목록 
+| Project | Repository | PR |
+|:---:|:---:|:---:|
+|1, 2단계 - Tomcat 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-http/pull/334)|
+|3, 4단계 - Tomcat 구현하기|[저장소](https://github.com/hectick/jwp-dashboard-http/tree/step2-again)|[PR](https://github.com/woowacourse/jwp-dashboard-http/pull/448)|
+|1단계 - MVC 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/376)|
+|2단계 - MVC 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/484)|
+|3단계 - MVC 구현하기|[저장소](https://github.com/hectick/jwp-dashboard-mvc/tree/step3)|[PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/563)|
+|1단계 - JDBC 라이브러리 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/299)|
+|2단계 - JDBC 라이브러리 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/391)|
+|3단계 - JDBC 라이브러리 구현하기||[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/514)|
+|4단계 - JDBC 라이브러리 구현하기|[저장소](https://github.com/hectick/jwp-dashboard-jdbc/tree/step4)|[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/588)|
+|1단계 - 레거시 코드 리팩터링||[PR](https://github.com/woowacourse/jwp-refactoring/pull/482)|
+|2단계 - 레거시 코드 리팩터링||[PR](https://github.com/woowacourse/jwp-refactoring/pull/591)|
+|3단계 - 레거시 코드 리팩터링||[PR](https://github.com/woowacourse/jwp-refactoring/pull/759)|
+|4단계 - 레거시 코드 리팩터링|[저장소](https://github.com/hectick/jwp-refactoring/tree/step4)|[PR](https://github.com/woowacourse/jwp-refactoring/pull/802)|
 
 ## 글쓰기  
 | level | title | PR |
 |:---:|:---:|:---:|
 |레벨1 글쓰기|우테코 한달 생활기|[PR](https://github.com/woowacourse/woowa-writing-5/pull/63)|
 |레벨2 글쓰기|나의 디딤돌, 근육통|[PR](https://github.com/woowacourse/woowa-writing-5/pull/262)|
+|레벨4 글쓰기|내가 꿈꾸는 프로그래머로서의 삶|[PR](https://github.com/woowacourse/woowa-writing-5/pull/471)|
 
 ## 기타  
 | Study | Period | Repository |
