@@ -4,7 +4,7 @@
 
 <br>
 
-## 🍏 Level 1
+## 🥚 Level 1 (2023.02.13 ~2023.04.05)
 
 ### 학습 목표
 - 자바 프로그래밍 언어에 대한 핵심 개념을 익혀 프로그래밍하는 경험을 한다.
@@ -31,7 +31,7 @@
 |1,2단계 - 체스|`2023-03-14` ~ `2023-03-23`|[저장소](https://github.com/hectick/java-chess/tree/step1)|[PR](https://github.com/woowacourse/java-blackjack/pull/445)|[모디](https://github.com/jaehee329)| |
 |3,4단계 - 체스|`2023-03-23` ~ `2023-03-31`|[저장소](https://github.com/hectick/java-chess/tree/step2)|[PR](https://github.com/woowacourse/java-chess/pull/562)| | |
 
-## 🍏 Level 2
+## 🐣 Level 2 (2023.04.11 ~ 2023.06.09)
 
 ### 학습 목표
 - 스프링 프레임워크를 이용해 웹 애플리케이션을 개발
@@ -50,6 +50,21 @@
 |2단계 - 경로 조회 기능|`2023-05-16` ~ `2023-05-22`|[저장소](https://github.com/hectick/jwp-subway-path/tree/step2)|[PR](https://github.com/woowacourse/jwp-subway-path/pull/121)| |
 |1단계 - 클라이언트 - 서버 연동 (협업)|`2023-05-23` ~ `2023-05-25`|[저장소](https://github.com/hectick/jwp-shopping-order/tree/step1)||[채채](https://github.com/chaewon121)|
 |2단계 - 주문 기능 구현 (협업)|`2023-05-26` ~ `2023-06-09`|[저장소](https://github.com/hectick/jwp-shopping-order/tree/step2)|[PR](https://github.com/woowacourse/jwp-shopping-order/pull/51)| |
+
+## 🐥 Level 3 (2023.06.27 ~ 2023.08.18)
+
+### 학습 목표
+- 프로그래밍을 확장해서 소프트웨어의 수명이 다할때까지 코드를 유용하게 관리하고 팀 협업을 가능하게 하는 정책, 도구까지도 고민
+- 프로그래밍을 더 긴 호흡으로, 많은 사람들과 함께 해야한다.
+
+### 팀 프로젝트
+| Project | Period | Repository | Blog |
+|:---:|:---:|:---:|:---:|
+|이돈이면|'2023-06-27' ~ '2023-11-23'|[저장소](https://github.com/woowacourse-teams/2023-edonymyeon)|[기술블로그](https://velog.io/@idonymyeon/posts)|
+
+## 🍳 Level 4 (2023.08.29 ~ 2023.10.27)
+
+
 
 ## 글쓰기  
 | level | title | PR |
